@@ -87,43 +87,31 @@ scenarios = [
             "How do you avoid being buried alive?"
         ),
         "options": [
-            "Let AI blaze through it. Efficiency is king!",  # Efficient Innovator
-            "Roll up your sleeves and tackle it manually.",  # Reflexive Thinker
-            "Team up! Let AI do the grunt work, then polish it yourself.",  # Balanced Strategist
-            "Find hidden gems in outlier data using advanced AI models.",  # Data Explorer
-            "Focus on data security and ethics while processing it.",  # Ethical Researcher
-            "Carefully evaluate risks before using AI on sensitive datasets."  # Risk-Conscious Analyst
+            "Use AI to summarize key points quickly and efficiently.",  # Efficient Innovator
+            "Manually work through the data to ensure depth and accuracy.",  # Reflexive Thinker
+            "Let AI handle the initial organization, then refine it personally."  # Balanced Strategist
         ],
         "outcomes": [
             "The Efficient Innovator",
             "The Reflexive Thinker",
-            "The Balanced Strategist",
-            "The Data Explorer",
-            "The Ethical Researcher",
-            "The Risk-Conscious Analyst"
+            "The Balanced Strategist"
         ]
     },
     {
         "scenario": "The Silent Speaker",
         "description": (
-            "In your focus group, one participant barely speaks but their body language screams volumes. "
+            "In your focus group, one participant barely speaks, but their body language speaks volumes. "
             "How do you make sense of their quiet contribution?"
         ),
         "options": [
-            "AI can decode their few words. Minimal input, maximum output!",  # Efficient Innovator
-            "Silence speaks louder than words. Analyze it deeply.",  # Reflexive Thinker
-            "Combine AI’s sentiment analysis with your intuition.",  # Balanced Strategist
-            "Explore body language data for hidden narratives.",  # Data Explorer
-            "Prioritize ethics—ensure they aren’t misrepresented.",  # Ethical Researcher
-            "Proceed cautiously, ensuring data privacy.",  # Risk-Conscious Analyst
+            "Use AI tools to analyze their few words and non-verbal cues.",  # Efficient Innovator
+            "Deeply reflect on their silence and interpret it qualitatively.",  # Reflexive Thinker
+            "Combine AI sentiment analysis with your observations."  # Balanced Strategist
         ],
         "outcomes": [
             "The Efficient Innovator",
             "The Reflexive Thinker",
-            "The Balanced Strategist",
-            "The Data Explorer",
-            "The Ethical Researcher",
-            "The Risk-Conscious Analyst"
+            "The Balanced Strategist"
         ]
     },
     {
@@ -133,20 +121,14 @@ scenarios = [
             "How do you amplify these crucial voices?"
         ),
         "options": [
-            "AI loves patterns—let it hunt them down!",  # Efficient Innovator
-            "Your instincts are your compass. Trust them.",  # Reflexive Thinker
-            "Why choose? Use AI and your intuition together!",  # Balanced Strategist
-            "Dig deep for unheard voices and unexpected stories.",  # Data Explorer
-            "Ensure marginalized voices are represented ethically.",  # Ethical Researcher
-            "Be cautious about potential biases in AI models."  # Risk-Conscious Analyst
+            "Let AI scan for recurring patterns and amplify these voices.",  # Efficient Innovator
+            "Trust your qualitative instincts to uncover marginalized perspectives.",  # Reflexive Thinker
+            "Blend AI’s insights with your interpretations to ensure no voice is missed."  # Balanced Strategist
         ],
         "outcomes": [
             "The Efficient Innovator",
             "The Reflexive Thinker",
-            "The Balanced Strategist",
-            "The Data Explorer",
-            "The Ethical Researcher",
-            "The Risk-Conscious Analyst"
+            "The Balanced Strategist"
         ]
     },
     {
@@ -156,20 +138,14 @@ scenarios = [
             "Do you follow this unexpected lead?"
         ),
         "options": [
-            "Follow the AI! Let’s see where it takes us.",  # Efficient Innovator
-            "Stay focused! Ignore the shiny distraction.",  # Reflexive Thinker
-            "Explore, but keep one foot on solid ground.",  # Balanced Strategist
-            "Unearth new patterns and dive into the unknown.",  # Data Explorer
-            "Ensure the new direction aligns with ethical guidelines.",  # Ethical Researcher
-            "Assess risks before venturing into new territory."  # Risk-Conscious Analyst
+            "Let AI guide you to explore this new theme efficiently.",  # Efficient Innovator
+            "Ignore it and stay focused on your original research plan.",  # Reflexive Thinker
+            "Explore the theme cautiously while keeping your primary goals in sight."  # Balanced Strategist
         ],
         "outcomes": [
             "The Efficient Innovator",
             "The Reflexive Thinker",
-            "The Balanced Strategist",
-            "The Data Explorer",
-            "The Ethical Researcher",
-            "The Risk-Conscious Analyst"
+            "The Balanced Strategist"
         ]
     },
     {
@@ -178,42 +154,14 @@ scenarios = [
             "Your sentiment analysis tool labels everything as 'neutral.' Is your data really this boring?"
         ),
         "options": [
-            "Accept it—neutral is a vibe, right?",  # Efficient Innovator
-            "Suspicious! Question everything.",  # Reflexive Thinker
-            "Adjust AI models to better capture nuance.",  # Balanced Strategist
-            "Dig deeper to find subtle emotional patterns.",  # Data Explorer
-            "Ensure neutral labeling doesn't mask important perspectives.",  # Ethical Researcher
-            "Evaluate potential biases and fix the analysis model."  # Risk-Conscious Analyst
+            "Accept the results—neutrality is valid too!",  # Efficient Innovator
+            "Question the analysis and reanalyze the data manually.",  # Reflexive Thinker
+            "Tweak the AI model to better detect subtle emotional patterns."  # Balanced Strategist
         ],
         "outcomes": [
             "The Efficient Innovator",
             "The Reflexive Thinker",
-            "The Balanced Strategist",
-            "The Data Explorer",
-            "The Ethical Researcher",
-            "The Risk-Conscious Analyst"
-        ]
-    },
-    {
-        "scenario": "The Mysterious Outlier",
-        "description": (
-            "One participant’s response sticks out like a sore thumb. Outlier or hidden gem?"
-        ),
-        "options": [
-            "Focus on the outlier—it could be groundbreaking!",  # Data Explorer
-            "Ignore it—stick to the crowd.",  # Efficient Innovator
-            "Examine both! Balance is key.",  # Balanced Strategist
-            "Analyze deeply for ethical implications.",  # Ethical Researcher
-            "Investigate, but tread cautiously.",  # Risk-Conscious Analyst
-            "Think deeply about why it stands out.",  # Reflexive Thinker
-        ],
-        "outcomes": [
-            "The Data Explorer",
-            "The Efficient Innovator",
-            "The Balanced Strategist",
-            "The Ethical Researcher",
-            "The Risk-Conscious Analyst",
-            "The Reflexive Thinker"
+            "The Balanced Strategist"
         ]
     },
     {
@@ -222,20 +170,14 @@ scenarios = [
             "AI’s automated coding is, well, a bit off. How much trust do you place in your digital assistant?"
         ),
         "options": [
-            "Trust AI—it’ll get better, promise!",  # Efficient Innovator
-            "Bin AI’s suggestions. You’ve got this.",  # Reflexive Thinker
-            "Use AI’s draft and refine it yourself.",  # Balanced Strategist
-            "Explore to discover unintended patterns.",  # Data Explorer
-            "Ensure the coding aligns with ethical research standards.",  # Ethical Researcher
-            "Evaluate risks before fully trusting AI suggestions."  # Risk-Conscious Analyst
+            "Trust AI—it’s efficient and will improve over time.",  # Efficient Innovator
+            "Discard AI’s coding and rely solely on your expertise.",  # Reflexive Thinker
+            "Use AI’s coding as a draft and refine it yourself."  # Balanced Strategist
         ],
         "outcomes": [
             "The Efficient Innovator",
             "The Reflexive Thinker",
-            "The Balanced Strategist",
-            "The Data Explorer",
-            "The Ethical Researcher",
-            "The Risk-Conscious Analyst"
+            "The Balanced Strategist"
         ]
     },
     {
@@ -244,20 +186,14 @@ scenarios = [
             "Your AI model risks exposing sensitive participant info. How do you stay ethical?"
         ),
         "options": [
-            "Use AI but double down on anonymization.",  # Ethical Researcher
-            "Ditch AI. Manual analysis for the win!",  # Reflexive Thinker
-            "Use AI selectively with strict privacy controls.",  # Balanced Strategist
-            "Analyze the risks thoroughly before proceeding.",  # Risk-Conscious Analyst
-            "Uncover insights without compromising safety.",  # Data Explorer
-            "Maximize efficiency while adhering to privacy standards."  # Efficient Innovator
+            "Use anonymization techniques to protect participants.",  # Efficient Innovator
+            "Avoid AI altogether and stick to manual analysis.",  # Reflexive Thinker
+            "Implement strict privacy controls to safely use AI."  # Balanced Strategist
         ],
         "outcomes": [
-            "The Ethical Researcher",
+            "The Efficient Innovator",
             "The Reflexive Thinker",
-            "The Balanced Strategist",
-            "The Risk-Conscious Analyst",
-            "The Data Explorer",
-            "The Efficient Innovator"
+            "The Balanced Strategist"
         ]
     },
     {
@@ -266,55 +202,24 @@ scenarios = [
             "Halfway through, AI reveals a shift in participant narratives. Pivot or stay the course?"
         ),
         "options": [
-            "Go with the flow—adapt your questions.",  # Data Explorer
+            "Go with the flow—adapt your questions.",  # Efficient Innovator
             "Stick to your guns. No mid-game changes.",  # Reflexive Thinker
-            "Blend both—acknowledge the shift but keep focus.",  # Balanced Strategist
-            "Evaluate the shift for ethical implications.",  # Ethical Researcher
-            "Analyze new data trends efficiently.",  # Efficient Innovator
-            "Carefully assess risks of changing direction."  # Risk-Conscious Analyst
-        ],
-        "outcomes": [
-            "The Data Explorer",
-            "The Reflexive Thinker",
-            "The Balanced Strategist",
-            "The Ethical Researcher",
-            "The Efficient Innovator",
-            "The Risk-Conscious Analyst"
-        ]
-    },
-    {
-        "scenario": "The Interpretation Challenge",
-        "description": (
-            "AI’s sentiment analysis feels a bit...off. What’s your plan?"
-        ),
-        "options": [
-            "Trust the numbers. Data knows best!",  # Efficient Innovator
-            "Dig deeper—manual reanalysis time.",  # Reflexive Thinker
-            "Combine AI’s stats with your qualitative genius.",  # Balanced Strategist
-            "Explore the ambiguous cases for insights.",  # Data Explorer
-            "Ensure ethical handling of borderline cases.",  # Ethical Researcher
-            "Evaluate and address risks in misclassifications."  # Risk-Conscious Analyst
+            "Blend both—acknowledge the shift but keep focus."  # Balanced Strategist
         ],
         "outcomes": [
             "The Efficient Innovator",
             "The Reflexive Thinker",
-            "The Balanced Strategist",
-            "The Data Explorer",
-            "The Ethical Researcher",
-            "The Risk-Conscious Analyst"
+            "The Balanced Strategist"
         ]
     }
 ]
 
-
 outcome_descriptions = {
-    "The Ethical Researcher": "You prioritize ethics and ensure participant confidentiality, advocating for marginalized voices and responsible AI use.",
     "The Efficient Innovator": "You fully leverage AI's potential to streamline processes, driving efficiency while maintaining high research quality.",
-    "The Balanced Strategist": "You skillfully balance AI's capabilities with human intuition, merging speed with thoughtful depth in your research.",
     "The Reflexive Thinker": "You prioritize reflexivity, ensuring your research interpretations remain context-sensitive and grounded in qualitative traditions.",
-    "The Data Explorer": "You are curious and open to unexpected insights, embracing new narratives and patterns that emerge from the data.",
-    "The Risk-Conscious Analyst": "You carefully assess the risks and uncertainties of AI integration, ensuring data security and mitigating unintended consequences."
+    "The Balanced Strategist": "You skillfully balance AI's capabilities with human intuition, merging speed with thoughtful depth in your research."
 }
+
 
 
 
@@ -335,7 +240,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # App Title
-st.title("Victoria's Secret")
+st.title("Data Feud: The Researcher’s Dilemma")
 
 # Get user name
 user_name = st.text_input("Enter your name:", "")
